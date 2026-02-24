@@ -1,0 +1,53 @@
+2025-07-12 23:17:58 - INFO - Getting site :- PHLMS
+2025-07-12 23:17:59 - INFO - Loggin successfull ...
+2025-07-12 23:17:59 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-12 23:18:00 - INFO - Using product is :- 22202450
+2025-07-12 23:18:00 - INFO - Quantity to be prep :- 47
+2025-07-12 23:18:00 - INFO - Batch Number is :- 4924209495
+2025-07-12 23:18:00 - INFO - Validating ........
+2025-07-12 23:18:15 - INFO - Container created successfully
+2025-07-12 23:18:15 - INFO - getting some sample of containers.....
+2025-07-12 23:18:16 - INFO - Total Number of containers is :- 47 data found
+2025-07-12 23:18:21 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        4924209495  242094950440398643  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+1        4924209495  242094950440398642  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+2        4924209495  242094950440398641  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+3        4924209495  242094950440398640  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+4        4924209495  242094950440398639  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-12 23:18:21 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\gettingContainerDetainls_controller.py", line 91, in get
+    Main_df.to_excel(path, index=False)
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\pandas\util\_decorators.py", line 333, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\pandas\core\generic.py", line 2436, in to_excel
+    formatter.write(
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\pandas\io\formats\excel.py", line 943, in write
+    writer = ExcelWriter(
+             ^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\pandas\io\excel\_openpyxl.py", line 57, in __init__
+    from openpyxl.workbook import Workbook
+ModuleNotFoundError: No module named 'openpyxl'
+2025-07-12 23:19:27 - INFO - Getting site :- PHLMS
+2025-07-12 23:19:28 - INFO - Loggin successfull ...
+2025-07-12 23:19:28 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-12 23:19:29 - INFO - Using product is :- 22202450
+2025-07-12 23:19:29 - INFO - Quantity to be prep :- 10
+2025-07-12 23:19:29 - INFO - Batch Number is :- 6717863053
+2025-07-12 23:19:29 - INFO - Validating ........
+2025-07-12 23:19:32 - INFO - Container created successfully
+2025-07-12 23:19:32 - INFO - getting some sample of containers.....
+2025-07-12 23:19:34 - INFO - Total Number of containers is :- 10 data found
+2025-07-12 23:19:35 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        6717863053  178630530440398653  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+1        6717863053  178630530440398652  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+2        6717863053  178630530440398651  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+3        6717863053  178630530440398650  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+4        6717863053  178630530440398649  OVERFLOW  22202450  PCGR45  ...    2025-07-12       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]

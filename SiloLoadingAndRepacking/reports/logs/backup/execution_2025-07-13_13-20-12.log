@@ -1,0 +1,297 @@
+2025-07-13 12:27:27 - INFO - Getting site :- PHLMS
+2025-07-13 12:27:28 - INFO - Loggin successfull ...
+2025-07-13 12:27:28 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:27:29 - INFO - Using product is :- 22202450
+2025-07-13 12:27:29 - INFO - Quantity to be prep :- 9
+2025-07-13 12:27:29 - INFO - Batch Number is :- 8311005767
+2025-07-13 12:27:30 - INFO - Validating ........
+2025-07-13 12:27:33 - INFO - Container created successfully
+2025-07-13 12:27:33 - INFO - getting some sample of containers.....
+2025-07-13 12:27:35 - INFO - Total Number of containers is :- 9 data found
+2025-07-13 12:27:36 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        8311005767  110057670440399344  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        8311005767  110057670440399343  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        8311005767  110057670440399342  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        8311005767  110057670440399341  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        8311005767  110057670440399340  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:27:38 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:29:02 - INFO - Getting site :- PHLMS
+2025-07-13 12:29:02 - INFO - Loggin successfull ...
+2025-07-13 12:29:02 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:29:04 - INFO - Using product is :- 22202450
+2025-07-13 12:29:04 - INFO - Quantity to be prep :- 23
+2025-07-13 12:29:04 - INFO - Batch Number is :- 3128464098
+2025-07-13 12:29:04 - INFO - Validating ........
+2025-07-13 12:29:11 - INFO - Container created successfully
+2025-07-13 12:29:11 - INFO - getting some sample of containers.....
+2025-07-13 12:29:13 - INFO - Total Number of containers is :- 23 data found
+2025-07-13 12:29:16 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        3128464098  284640980440399367  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        3128464098  284640980440399366  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        3128464098  284640980440399365  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        3128464098  284640980440399364  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        3128464098  284640980440399363  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:29:16 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:29:18 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:35:27 - INFO - Getting site :- PHLMS
+2025-07-13 12:35:27 - INFO - Loggin successfull ...
+2025-07-13 12:35:27 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:35:28 - INFO - Using product is :- 22202450
+2025-07-13 12:35:29 - INFO - Quantity to be prep :- 25
+2025-07-13 12:35:29 - INFO - Batch Number is :- 4382653802
+2025-07-13 12:35:29 - INFO - Validating ........
+2025-07-13 12:35:37 - INFO - Container created successfully
+2025-07-13 12:35:37 - INFO - getting some sample of containers.....
+2025-07-13 12:35:39 - INFO - Total Number of containers is :- 25 data found
+2025-07-13 12:35:42 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        4382653802  826538020440399392  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        4382653802  826538020440399391  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        4382653802  826538020440399390  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        4382653802  826538020440399389  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        4382653802  826538020440399388  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:35:42 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:35:44 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:39:35 - INFO - Getting site :- PHLMS
+2025-07-13 12:39:36 - INFO - Loggin successfull ...
+2025-07-13 12:39:36 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:39:38 - INFO - Using product is :- 22202450
+2025-07-13 12:39:38 - INFO - Quantity to be prep :- 11
+2025-07-13 12:39:38 - INFO - Batch Number is :- 4927255514
+2025-07-13 12:39:39 - INFO - Validating ........
+2025-07-13 12:39:44 - INFO - Container created successfully
+2025-07-13 12:39:44 - INFO - getting some sample of containers.....
+2025-07-13 12:39:46 - INFO - Total Number of containers is :- 11 data found
+2025-07-13 12:39:50 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        4927255514  272555140440399403  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        4927255514  272555140440399402  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        4927255514  272555140440399401  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        4927255514  272555140440399400  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        4927255514  272555140440399399  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:39:50 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:39:53 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:42:20 - INFO - Getting site :- PHLMS
+2025-07-13 12:42:21 - INFO - Loggin successfull ...
+2025-07-13 12:42:21 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:42:23 - INFO - Using product is :- 22202450
+2025-07-13 12:42:23 - INFO - Quantity to be prep :- 32
+2025-07-13 12:42:23 - INFO - Batch Number is :- 8239941789
+2025-07-13 12:42:24 - INFO - Validating ........
+2025-07-13 12:42:40 - INFO - Container created successfully
+2025-07-13 12:42:40 - INFO - getting some sample of containers.....
+2025-07-13 12:42:42 - INFO - Total Number of containers is :- 32 data found
+2025-07-13 12:42:49 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        8239941789  399417890440399435  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        8239941789  399417890440399434  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        8239941789  399417890440399433  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        8239941789  399417890440399432  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        8239941789  399417890440399431  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:42:49 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:42:51 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:43:02 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\directMovement_controller.py", line 83, in directMovement
+    click_ok = wait.until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div/div[3]/button[1]")))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 12:55:55 - INFO - Getting site :- PHLMS
+2025-07-13 12:55:56 - INFO - Loggin successfull ...
+2025-07-13 12:55:56 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:55:58 - INFO - Using product is :- 22202450
+2025-07-13 12:55:58 - INFO - Quantity to be prep :- 13
+2025-07-13 12:55:58 - INFO - Batch Number is :- 7559245138
+2025-07-13 12:55:59 - INFO - Validating ........
+2025-07-13 12:56:05 - INFO - Container created successfully
+2025-07-13 12:56:05 - INFO - getting some sample of containers.....
+2025-07-13 12:56:08 - INFO - Total Number of containers is :- 13 data found
+2025-07-13 12:56:11 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        7559245138  592451380440399448  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        7559245138  592451380440399447  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        7559245138  592451380440399446  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        7559245138  592451380440399445  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        7559245138  592451380440399444  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:56:11 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:56:14 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:56:24 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\directMovement_controller.py", line 83, in directMovement
+    click_ok = wait.until(EC.element_to_be_clickable((By.XPATH,"//button[contains(@class, 'swal2-confirm') and normalize-space()='OK']")))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 13:02:05 - INFO - Getting site :- PHLMS
+2025-07-13 13:02:05 - INFO - Loggin successfull ...
+2025-07-13 13:02:05 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 13:02:07 - INFO - Using product is :- 22202450
+2025-07-13 13:02:07 - INFO - Quantity to be prep :- 38
+2025-07-13 13:02:07 - INFO - Batch Number is :- 0361559410
+2025-07-13 13:02:07 - INFO - Validating ........
+2025-07-13 13:02:19 - INFO - Container created successfully
+2025-07-13 13:02:19 - INFO - getting some sample of containers.....
+2025-07-13 13:02:21 - INFO - Total Number of containers is :- 38 data found
+2025-07-13 13:02:25 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        0361559410  615594100440399486  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        0361559410  615594100440399485  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        0361559410  615594100440399484  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        0361559410  615594100440399483  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        0361559410  615594100440399482  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 13:02:25 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 13:02:27 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 13:02:37 - ERROR - Failed to click OK button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 13:10:40 - INFO - Getting site :- PHLMS
+2025-07-13 13:10:41 - INFO - Loggin successfull ...
+2025-07-13 13:10:41 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 13:10:42 - INFO - Using product is :- 22202450
+2025-07-13 13:10:42 - INFO - Quantity to be prep :- 20
+2025-07-13 13:10:42 - INFO - Batch Number is :- 0406499501
+2025-07-13 13:10:42 - INFO - Validating ........
+2025-07-13 13:10:49 - INFO - Container created successfully
+2025-07-13 13:10:49 - INFO - getting some sample of containers.....
+2025-07-13 13:10:50 - INFO - Total Number of containers is :- 20 data found
+2025-07-13 13:10:52 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        0406499501  064995010440399520  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        0406499501  064995010440399519  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        0406499501  064995010440399518  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        0406499501  064995010440399517  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        0406499501  064995010440399516  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 13:10:53 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 13:10:54 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 13:11:05 - ERROR - Failed to click OK button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+

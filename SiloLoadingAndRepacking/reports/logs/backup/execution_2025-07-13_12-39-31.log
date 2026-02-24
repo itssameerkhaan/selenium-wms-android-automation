@@ -1,0 +1,62 @@
+2025-07-13 12:27:27 - INFO - Getting site :- PHLMS
+2025-07-13 12:27:28 - INFO - Loggin successfull ...
+2025-07-13 12:27:28 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:27:29 - INFO - Using product is :- 22202450
+2025-07-13 12:27:29 - INFO - Quantity to be prep :- 9
+2025-07-13 12:27:29 - INFO - Batch Number is :- 8311005767
+2025-07-13 12:27:30 - INFO - Validating ........
+2025-07-13 12:27:33 - INFO - Container created successfully
+2025-07-13 12:27:33 - INFO - getting some sample of containers.....
+2025-07-13 12:27:35 - INFO - Total Number of containers is :- 9 data found
+2025-07-13 12:27:36 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        8311005767  110057670440399344  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        8311005767  110057670440399343  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        8311005767  110057670440399342  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        8311005767  110057670440399341  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        8311005767  110057670440399340  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:27:38 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:29:02 - INFO - Getting site :- PHLMS
+2025-07-13 12:29:02 - INFO - Loggin successfull ...
+2025-07-13 12:29:02 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:29:04 - INFO - Using product is :- 22202450
+2025-07-13 12:29:04 - INFO - Quantity to be prep :- 23
+2025-07-13 12:29:04 - INFO - Batch Number is :- 3128464098
+2025-07-13 12:29:04 - INFO - Validating ........
+2025-07-13 12:29:11 - INFO - Container created successfully
+2025-07-13 12:29:11 - INFO - getting some sample of containers.....
+2025-07-13 12:29:13 - INFO - Total Number of containers is :- 23 data found
+2025-07-13 12:29:16 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        3128464098  284640980440399367  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        3128464098  284640980440399366  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        3128464098  284640980440399365  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        3128464098  284640980440399364  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        3128464098  284640980440399363  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:29:16 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:29:18 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:35:27 - INFO - Getting site :- PHLMS
+2025-07-13 12:35:27 - INFO - Loggin successfull ...
+2025-07-13 12:35:27 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:35:28 - INFO - Using product is :- 22202450
+2025-07-13 12:35:29 - INFO - Quantity to be prep :- 25
+2025-07-13 12:35:29 - INFO - Batch Number is :- 4382653802
+2025-07-13 12:35:29 - INFO - Validating ........
+2025-07-13 12:35:37 - INFO - Container created successfully
+2025-07-13 12:35:37 - INFO - getting some sample of containers.....
+2025-07-13 12:35:39 - INFO - Total Number of containers is :- 25 data found
+2025-07-13 12:35:42 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        4382653802  826538020440399392  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        4382653802  826538020440399391  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        4382653802  826538020440399390  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        4382653802  826538020440399389  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        4382653802  826538020440399388  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:35:42 - INFO - i am in Drict movement Mode, THANKYOU...
+2025-07-13 12:35:44 - INFO - Direct Movement is completed sucessfully......

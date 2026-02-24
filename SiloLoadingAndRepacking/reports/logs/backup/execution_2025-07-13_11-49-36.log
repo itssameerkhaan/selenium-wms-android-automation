@@ -1,0 +1,38 @@
+2025-07-13 11:33:53 - INFO - Getting site :- PHLMS
+2025-07-13 11:33:54 - INFO - Loggin successfull ...
+2025-07-13 11:33:54 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:33:55 - INFO - Using product is :- 22202450
+2025-07-13 11:33:55 - INFO - Quantity to be prep :- 33
+2025-07-13 11:33:56 - INFO - Batch Number is :- 8909285137
+2025-07-13 11:33:56 - INFO - Validating ........
+2025-07-13 11:34:06 - INFO - Container created successfully
+2025-07-13 11:34:06 - INFO - getting some sample of containers.....
+2025-07-13 11:34:08 - INFO - Total Number of containers is :- 33 data found
+2025-07-13 11:34:12 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        8909285137  092851370440398935  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        8909285137  092851370440398934  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        8909285137  092851370440398933  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        8909285137  092851370440398932  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        8909285137  092851370440398931  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 11:36:38 - INFO - Getting site :- PHLMS
+2025-07-13 11:36:39 - INFO - Loggin successfull ...
+2025-07-13 11:36:39 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:36:40 - INFO - Using product is :- 22202450
+2025-07-13 11:36:40 - INFO - Quantity to be prep :- 45
+2025-07-13 11:36:40 - INFO - Batch Number is :- 6942385294
+2025-07-13 11:36:40 - INFO - Validating ........
+2025-07-13 11:36:55 - INFO - Container created successfully
+2025-07-13 11:36:55 - INFO - getting some sample of containers.....
+2025-07-13 11:36:56 - INFO - Total Number of containers is :- 45 data found
+2025-07-13 11:37:01 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        6942385294  423852940440398980  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        6942385294  423852940440398979  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        6942385294  423852940440398978  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        6942385294  423852940440398977  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        6942385294  423852940440398976  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]

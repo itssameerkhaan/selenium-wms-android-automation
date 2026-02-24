@@ -1,0 +1,187 @@
+2025-07-13 11:09:28 - INFO - Getting site :- PHLMS
+2025-07-13 11:09:29 - INFO - Loggin successfull ...
+2025-07-13 11:09:29 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:09:30 - INFO - Using product is :- 22202450
+2025-07-13 11:09:30 - INFO - Quantity to be prep :- 15
+2025-07-13 11:09:30 - INFO - Batch Number is :- 6367785614
+2025-07-13 11:09:30 - INFO - Validating ........
+2025-07-13 11:09:36 - INFO - Container created successfully
+2025-07-13 11:09:36 - INFO - getting some sample of containers.....
+2025-07-13 11:09:37 - INFO - Total Number of containers is :- 15 data found
+2025-07-13 11:09:39 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        6367785614  677856140440398696  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        6367785614  677856140440398695  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        6367785614  677856140440398694  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        6367785614  677856140440398693  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        6367785614  677856140440398692  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 11:25:35 - INFO - Getting site :- PHLMS
+2025-07-13 11:25:36 - INFO - Loggin successfull ...
+2025-07-13 11:25:36 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:25:37 - INFO - Using product is :- 22202450
+2025-07-13 11:25:37 - INFO - Quantity to be prep :- 40
+2025-07-13 11:25:37 - INFO - Batch Number is :- 7903735760
+2025-07-13 11:25:38 - INFO - Validating ........
+2025-07-13 11:25:50 - INFO - Container created successfully
+2025-07-13 11:25:50 - INFO - getting some sample of containers.....
+2025-07-13 11:25:52 - INFO - Total Number of containers is :- 40 data found
+2025-07-13 11:25:56 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        7903735760  037357600440398736  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        7903735760  037357600440398735  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        7903735760  037357600440398734  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        7903735760  037357600440398733  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        7903735760  037357600440398732  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 11:25:57 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:25:58 - INFO - Using product is :- 22202450
+2025-07-13 11:25:58 - INFO - Quantity to be prep :- 32
+2025-07-13 11:25:58 - INFO - Batch Number is :- 3368624550
+2025-07-13 11:25:58 - INFO - Validating ........
+2025-07-13 11:26:09 - INFO - Container created successfully
+2025-07-13 11:26:09 - INFO - getting some sample of containers.....
+2025-07-13 11:26:20 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\gettingContainerDetainls_controller.py", line 52, in get
+    container_by_batch = wait.until(EC.presence_of_element_located((By.XPATH,"//*[@id='sessionCheck']/div[2]/div/div[2]/div/div/div/div[6]/div[3]/input")))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 11:26:20 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:26:21 - INFO - Using product is :- 22202450
+2025-07-13 11:26:21 - INFO - Quantity to be prep :- 41
+2025-07-13 11:26:21 - INFO - Batch Number is :- 6400294560
+2025-07-13 11:26:22 - INFO - Validating ........
+2025-07-13 11:26:34 - INFO - Container created successfully
+2025-07-13 11:26:34 - INFO - getting some sample of containers.....
+2025-07-13 11:26:45 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\gettingContainerDetainls_controller.py", line 48, in get
+    containers = wait.until(EC.element_to_be_clickable((By.XPATH, "//*[@id='sessionCheck']/div[1]/nav/ul/li[5]/ul/li[1]/ul/li[1]/a")))
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-07-13 11:26:56 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\directMovement_controller.py", line 47, in directMovement
+    movement = wait.until(EC.visibility_of_element_located((By.XPATH, "//*[@id='sessionCheck']/div[1]/nav/ul/li[5]/ul/li[4]/a")))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2025-07-13 11:29:13 - INFO - Getting site :- PHLMS
+2025-07-13 11:29:13 - INFO - Loggin successfull ...
+2025-07-13 11:29:13 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:29:15 - INFO - Using product is :- 22202450
+2025-07-13 11:29:15 - INFO - Quantity to be prep :- 17
+2025-07-13 11:29:15 - INFO - Batch Number is :- 6813883454
+2025-07-13 11:29:15 - INFO - Validating ........
+2025-07-13 11:29:21 - INFO - Container created successfully
+2025-07-13 11:29:21 - INFO - getting some sample of containers.....
+2025-07-13 11:29:22 - INFO - Total Number of containers is :- 17 data found
+2025-07-13 11:29:24 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        6813883454  138834540440398826  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+1        6813883454  138834540440398825  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+2        6813883454  138834540440398824  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+3        6813883454  138834540440398823  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+4        6813883454  138834540440398822  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 11:30:23 - INFO - Getting site :- PHLMS
+2025-07-13 11:30:24 - INFO - Loggin successfull ...
+2025-07-13 11:30:24 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:30:25 - INFO - Using product is :- 22202450
+2025-07-13 11:30:25 - INFO - Quantity to be prep :- 14
+2025-07-13 11:30:25 - INFO - Batch Number is :- 1560728713
+2025-07-13 11:30:25 - INFO - Validating ........
+2025-07-13 11:30:30 - INFO - Container created successfully
+2025-07-13 11:30:30 - INFO - getting some sample of containers.....
+2025-07-13 11:30:32 - INFO - Total Number of containers is :- 14 data found
+2025-07-13 11:30:34 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        1560728713  607287130440398840  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        1560728713  607287130440398839  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        1560728713  607287130440398838  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        1560728713  607287130440398837  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        1560728713  607287130440398836  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 11:30:34 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 11:30:35 - INFO - Using product is :- 22202450
+2025-07-13 11:30:35 - INFO - Quantity to be prep :- 34
+2025-07-13 11:30:35 - INFO - Batch Number is :- 2531387643
+2025-07-13 11:30:35 - INFO - Validating ........
+2025-07-13 11:30:46 - INFO - Container created successfully
+2025-07-13 11:30:46 - INFO - getting some sample of containers.....
+2025-07-13 11:30:57 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\gettingContainerDetainls_controller.py", line 52, in get
+    container_by_batch = wait.until(EC.presence_of_element_located((By.XPATH,"//*[@id='sessionCheck']/div[2]/div/div[2]/div/div/div/div[6]/div[3]/input")))
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+

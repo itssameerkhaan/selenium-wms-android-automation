@@ -1,0 +1,60 @@
+2025-07-13 12:06:14 - INFO - Getting site :- PHLMS
+2025-07-13 12:06:15 - INFO - Loggin successfull ...
+2025-07-13 12:06:15 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:06:16 - INFO - Using product is :- 22202450
+2025-07-13 12:06:16 - INFO - Quantity to be prep :- 11
+2025-07-13 12:06:16 - INFO - Batch Number is :- 0164969382
+2025-07-13 12:06:16 - INFO - Validating ........
+2025-07-13 12:06:20 - INFO - Container created successfully
+2025-07-13 12:06:20 - INFO - getting some sample of containers.....
+2025-07-13 12:06:22 - INFO - Total Number of containers is :- 11 data found
+2025-07-13 12:06:24 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        0164969382  649693820440399119  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+1        0164969382  649693820440399118  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+2        0164969382  649693820440399117  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+3        0164969382  649693820440399116  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+4        0164969382  649693820440399115  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0         SAP      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:06:26 - ERROR - : Direct Movement is Failed :
+2025-07-13 12:07:40 - INFO - Getting site :- PHLMS
+2025-07-13 12:07:41 - INFO - Loggin successfull ...
+2025-07-13 12:07:41 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:07:42 - INFO - Using product is :- 22202450
+2025-07-13 12:07:42 - INFO - Quantity to be prep :- 12
+2025-07-13 12:07:42 - INFO - Batch Number is :- 1928063711
+2025-07-13 12:07:43 - INFO - Validating ........
+2025-07-13 12:07:47 - INFO - Container created successfully
+2025-07-13 12:07:47 - INFO - getting some sample of containers.....
+2025-07-13 12:07:48 - INFO - Total Number of containers is :- 12 data found
+2025-07-13 12:07:50 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        1928063711  280637110440399131  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        1928063711  280637110440399130  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        1928063711  280637110440399129  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        1928063711  280637110440399128  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        1928063711  280637110440399127  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:07:53 - ERROR - : Direct Movement is Failed :
+2025-07-13 12:16:25 - INFO - Getting site :- PHLMS
+2025-07-13 12:16:25 - INFO - Loggin successfull ...
+2025-07-13 12:16:25 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:16:26 - INFO - Using product is :- 22202450
+2025-07-13 12:16:27 - INFO - Quantity to be prep :- 27
+2025-07-13 12:16:27 - INFO - Batch Number is :- 4425198388
+2025-07-13 12:16:27 - INFO - Validating ........
+2025-07-13 12:16:36 - INFO - Container created successfully
+2025-07-13 12:16:36 - INFO - getting some sample of containers.....
+2025-07-13 12:16:37 - INFO - Total Number of containers is :- 27 data found
+2025-07-13 12:16:40 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        4425198388  251983880440399158  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        4425198388  251983880440399157  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        4425198388  251983880440399156  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        4425198388  251983880440399155  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        4425198388  251983880440399154  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:16:42 - ERROR - : Direct Movement is Failed :

@@ -1,0 +1,162 @@
+2025-07-13 12:23:12 - INFO - Getting site :- PHLMS
+2025-07-13 12:23:12 - INFO - Loggin successfull ...
+2025-07-13 12:23:12 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:23:14 - INFO - Using product is :- 22202450
+2025-07-13 12:23:14 - INFO - Quantity to be prep :- 27
+2025-07-13 12:23:14 - INFO - Batch Number is :- 0998279192
+2025-07-13 12:23:14 - INFO - Validating ........
+2025-07-13 12:23:23 - INFO - Container created successfully
+2025-07-13 12:23:23 - INFO - getting some sample of containers.....
+2025-07-13 12:23:24 - INFO - Total Number of containers is :- 27 data found
+2025-07-13 12:23:27 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        0998279192  982791920440399247  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        0998279192  982791920440399246  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        0998279192  982791920440399245  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        0998279192  982791920440399244  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        0998279192  982791920440399243  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:23:29 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:23:40 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\directMovement_controller.py", line 83, in directMovement
+    click_ok = wait.until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div/div[3]/button[1]")))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 12:24:05 - INFO - Getting site :- PHLMS
+2025-07-13 12:24:06 - INFO - Loggin successfull ...
+2025-07-13 12:24:06 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:24:07 - CRITICAL - : Container Creation Failed :
+2025-07-13 12:24:07 - ERROR - Exception Occured
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\containerCreation_controller.py", line 41, in Create
+    container_creation.click()
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 120, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\remote\webelement.py", line 573, in _execute
+    return self._parent.execute(command, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: MicrosoftEdge=138.0.3351.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementnotinteractableexception
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x165098]
+	(No symbol) [0x0x19b0d6]
+	(No symbol) [0x0x193f4a]
+	(No symbol) [0x0x1b27ec]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x193a10]
+	(No symbol) [0x0x1b2ae4]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
+2025-07-13 12:24:07 - CRITICAL - Faild in getting containerCreation_controller
+2025-07-13 12:24:23 - INFO - Getting site :- PHLMS
+2025-07-13 12:24:23 - INFO - Loggin successfull ...
+2025-07-13 12:24:23 - INFO - I am in container creation mode, THANKYOU ...
+2025-07-13 12:24:25 - INFO - Using product is :- 22202450
+2025-07-13 12:24:25 - INFO - Quantity to be prep :- 42
+2025-07-13 12:24:25 - INFO - Batch Number is :- 5776626126
+2025-07-13 12:24:25 - INFO - Validating ........
+2025-07-13 12:24:39 - INFO - Container created successfully
+2025-07-13 12:24:39 - INFO - getting some sample of containers.....
+2025-07-13 12:24:40 - INFO - Total Number of containers is :- 42 data found
+2025-07-13 12:24:46 - INFO - Sample of Contianers is 
+  index       Batch       Container No.  Location   Product   Grade  ... Modified Date Version Modified By Movement Status Send To SAP Device Used
+0        5776626126  766261260440399289  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+1        5776626126  766261260440399288  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+2        5776626126  766261260440399287  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+3        5776626126  766261260440399286  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+4        5776626126  766261260440399285  OVERFLOW  22202450  PCGR45  ...    2025-07-13       0        asis      _Immobile_          No            
+
+[5 rows x 18 columns]
+2025-07-13 12:24:48 - INFO - Direct Movement is completed sucessfully......
+2025-07-13 12:24:58 - ERROR - Exception occured :-
+Traceback (most recent call last):
+  File "c:\Users\user\Desktop\Testing_Main\root_project\root_main\pages\directMovement_controller.py", line 83, in directMovement
+    click_ok = wait.until(EC.element_to_be_clickable((By.XPATH,"/html/body/div[2]/div/div[3]/button[1]")))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\Desktop\Testing_Main\root_project\myenv\Lib\site-packages\selenium\webdriver\support\wait.py", line 138, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x4ed593+37219]
+	(No symbol) [0x0x39a716]
+	(No symbol) [0x0x1651ce]
+	(No symbol) [0x0x19a289]
+	(No symbol) [0x0x19a57a]
+	(No symbol) [0x0x1c9da2]
+	(No symbol) [0x0x1b2834]
+	(No symbol) [0x0x193a91]
+	(No symbol) [0x0x1c8929]
+	(No symbol) [0x0x1b24f6]
+	(No symbol) [0x0x193327]
+	(No symbol) [0x0x192723]
+	(No symbol) [0x0x193144]
+	sqlite3_dbdata_init [0x0x5da89c+518364]
+	sqlite3_dbdata_init [0x0x6c1ab0+1465072]
+	sqlite3_dbdata_init [0x0x6c13e5+1463333]
+	sqlite3_dbdata_init [0x0x6b28ec+1403180]
+	sqlite3_dbdata_init [0x0x6c22d2+1467154]
+	(No symbol) [0x0x3b1d9d]
+	(No symbol) [0x0x3a5108]
+	(No symbol) [0x0x3a52fb]
+	(No symbol) [0x0x38a649]
+	BaseThreadInitThunk [0x0x7590fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x774d82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x774d827e+238]
+	(No symbol) [0x0]
+
